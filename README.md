@@ -1,1 +1,1 @@
-# example_Projct
+(예시용)첫번째 팀 프로젝트
